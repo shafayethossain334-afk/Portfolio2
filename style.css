@@ -2,7 +2,7 @@
     --coral: #ff5e3a;
     --royal-blue: #1e4bb5;
     --dark-blue: #153a8d;
-    --white: #ff5e3a;
+    --white: #000000;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
